@@ -1,0 +1,109 @@
+{
+	"team": [
+		{
+			"role": "Customer Success Manager",
+			"name": "Fabrizio Corsaro",
+			"email": "fabrizio.corsaro@mattermost.com"
+		},
+		{
+			"role": "Technical Account Manager",
+			"name": "John Landells",
+			"email": "john.landells@mattermost.com"
+		}
+	],
+	"bookmarks": [
+		{
+			"display_name": "Open Support Request",
+			"link_url": "https://support.mattermost.com/hc/en-us/",
+			"emoji": ":zendesk:"
+		},
+		{
+			"display_name": "Support Terms (SLAs)",
+			"link_url": "https://mattermost.com/support-terms/",
+			"emoji": ":ballot_box_with_check:"
+		},
+		{
+			"display_name": "Mattermost Documentation",
+			"link_url": "https://docs.mattermost.com",
+			"emoji": ":book:"
+		},
+		{
+			"display_name": "Security Updates",
+			"link_url": "https://mattermost.com/security-updates/",
+			"emoji": ":lock:"
+		},
+		{
+			"display_name": "Roadmap",
+			"link_url": "https://mattermost.com/roadmap/",
+			"emoji": ":motorway:"
+		},
+		{
+			"display_name": "Release Lifecycle",
+			"link_url": "https://docs.mattermost.com/upgrade/release-lifecycle.html",
+			"emoji": ":repeat:"
+		}
+	],
+	"resources": [
+		{
+			"display_name": "Mattermost Academy",
+			"url": "https://academy.mattermost.com/",
+			"description": "An online learning platform offering courses to enhance your Mattermost knowledge and skills."
+		},
+		{
+			"display_name": "Mattermost Documentation",
+			"url": "https://docs.mattermost.com/",
+			"description": "Comprehensive guides and manuals for installing, configuring, and using Mattermost effectively."
+		},
+		{
+			"display_name": "Open Support Request",
+			"url": "https://support.mattermost.com/hc/en-us/",
+			"description": "A portal to submit and track support requests directly with Mattermost's support team."
+		},
+		{
+			"display_name": "Support Terms (SLAs)",
+			"url": "https://mattermost.com/support-terms/",
+			"description": "Detailed service level agreements outlining Mattermost's commitment to supporting its users and customers."
+		},
+		{
+			"display_name": "Changelog",
+			"url": "https://docs.mattermost.com/deploy/mattermost-changelog.html",
+			"description": "A detailed log of new features, improvements, and bug fixes in each Mattermost release."
+		},
+		{
+			"display_name": "Release Lifecycle",
+			"url": "https://docs.mattermost.com/upgrade/release-lifecycle.html",
+			"description": "Information on the lifecycle of Mattermost releases, including support and maintenance periods."
+		},
+		{
+			"display_name": "Roadmap",
+			"url": "https://mattermost.com/roadmap/",
+			"description": "Insights into Mattermost’s future plans and upcoming features."
+		},
+		{
+			"display_name": "Community Forum",
+			"url": "https://forum.mattermost.org/",
+			"description": "A community-driven forum for discussions, troubleshooting, and community support."
+		},
+		{
+			"display_name": "GitHub Org",
+			"url": "https://github.com/mattermost",
+			"description": "The official GitHub organization page where users can find all Mattermost source code and repositories."
+		},
+		{
+			"display_name": "Security Updates",
+			"url": "https://mattermost.com/security-updates/",
+			"description": "The latest security advisories, updates, and patches for Mattermost products."
+		},
+		{
+			"display_name": "API Documentation",
+			"url": "https://api.mattermost.com/",
+			"description": "Detailed documentation for developers on how to use and integrate with the Mattermost API."
+		},
+		{
+			"display_name": "Developer Documentation",
+			"url": "https://developers.mattermost.com/",
+			"description": "Where contributors can learn how to contribute to MM projects and how to integrate and extend MM functionality."
+		}
+	]
+}
+
