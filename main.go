@@ -96,7 +96,7 @@ func main() {
 	flag.StringVar(&MattermostToken, "token", "", "The auth token used to connect to Mattermost")
 	flag.StringVar(&MattermostChannel, "channel", "", "The channel ID to target. (Available from 'Channel Info' screen)")
 	flag.StringVar(&ConfigFilename, "config", conf_file_default, "Alternative JSON filename. [Default: "+conf_file_default+"]")
-	flag.BoolVar(&NoHeaderFlag, "noheadwer", false, "Don't create a channel header - just add bookmarks")
+	flag.BoolVar(&NoHeaderFlag, "noheader", false, "Don't create a channel header - just add bookmarks")
 	flag.BoolVar(&DebugFlag, "debug", debugMode, "Enable debug output")
 	flag.BoolVar(&VersionFlag, "version", false, "Show version information and exit")
 
